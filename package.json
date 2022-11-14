@@ -21,7 +21,7 @@
     "html-escaper": "^3.0.3",
     "less": "^3.10.3",
     "mnemonist": "^0.39.3",
-    "node": "^19.0.1",
+    "node": "^14.18.2",
     "pg": "^8.2.1",
     "prom-client": "^14.0.1",
     "spectre.css": "^0.5.8",
