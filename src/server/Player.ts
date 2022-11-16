@@ -323,18 +323,19 @@ export class Player {
     const modifier = amount > 0 ? 'increased' : 'decreased';
     const absAmount = Math.abs(amount);
     // TODO(kberg): remove the ${2} for increased and decreased, I bet it's not used.
-    let message = '${0}\'s ${1} ' + unitType + ' ${2} by ${3}';
+    let message = '${0}\'s ${1} ${2} ${3} by ${4}';
 
     if (from !== undefined) {
       if (stealing === true) {
         message = message + ' stolen';
       }
-      message = message + ' by ${4}';
+      message = message + ' by ${5}';
     }
 
     this.game.log(message, (b) => {
       b.player(this)
         .string(resource)
+        .string(unitType)
         .string(modifier)
         .number(absAmount);
       if (from instanceof Player) {
