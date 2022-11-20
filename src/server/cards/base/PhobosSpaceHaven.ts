@@ -23,7 +23,7 @@ export class PhobosSpaceHaven extends Card implements IProjectCard {
       metadata: {
         cardNumber: '021',
         renderData: CardRenderer.builder((b) => {
-          b.production((pb) => pb.titanium(1)).nbsp.city().asterix();
+          b.production((pb) => pb.titanium(1)).nbsp.city({secondaryTag: Tag.SPACE}).asterix();
         }),
         description: 'Increase your titanium production 1 step and place a city tile ON THE RESERVED AREA.',
       },

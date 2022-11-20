@@ -24,7 +24,7 @@ export class GanymedeColony extends Card implements IProjectCard {
         description: 'Place a city tile ON THE RESERVED AREA.',
         cardNumber: '081',
         renderData: CardRenderer.builder((b) => {
-          b.city().asterix().br;
+          b.city({secondaryTag: Tag.SPACE}).asterix().br;
           b.vpText('1 VP per Jovian tag you have.');
         }),
       },

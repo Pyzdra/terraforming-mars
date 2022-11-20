@@ -28,7 +28,7 @@ export class LunarEmbassy extends Card implements IProjectCard {
           b.production((pb) => pb.megacredits(3))
             .production((pb) => pb.plants(1).slash().earth(2, {played}))
             .br
-            .cards(1).city().asterix().br;
+            .cards(1).city({secondaryTag: Tag.SPACE}).asterix().br;
         }),
         description: 'Increase your M€ production 3 steps, and plant production 1 step for every 2 Earth tags (including this.) ' +
           'Draw a card. Place a city tile ON THE RESERVED AREA.',

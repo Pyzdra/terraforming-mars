@@ -22,7 +22,7 @@ export class StanfordTorus extends Card implements IProjectCard {
       metadata: {
         cardNumber: 'X12',
         renderData: CardRenderer.builder((b) => {
-          b.city().asterix();
+          b.city({secondaryTag: Tag.SPACE}).asterix();
         }),
         description: 'Place a city tile IN SPACE, outside and separate from the planet.',
       },

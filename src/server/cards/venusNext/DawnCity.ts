@@ -29,7 +29,7 @@ export class DawnCity extends Card implements IProjectCard {
           b.production((pb) => {
             pb.minus().energy(1).br;
             pb.plus().titanium(1);
-          }).nbsp.city().asterix();
+          }).nbsp.city({secondaryTag: Tag.SPACE}).asterix();
         }),
       },
     });
