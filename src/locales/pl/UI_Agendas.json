@@ -4,7 +4,7 @@
    "Gain 1 M€ for each tile you have ON MARS": "Otrzymujesz 1 M€ za każdy posiadany obszar miasta na powierzchni Marsa.",
    "Select a Mars First policy.": "Wybierz program polityczny partii Teraz Mars.",
    "When you place a tile ON MARS, gain 1 steel": "Gdy umieszczasz dowolny obszar na powierzchni Marsa, otrzymujesz 1 jednostkę stali.",
-   "When you play a building tag, gain 2 M€": "Gdy zagrywasz kartę z symbolem Budowli, otrzymujesz 2 M€.",
+   "When you play a building tag, gain 2 M€": "Gdy zagrywasz symbol Budowli, otrzymujesz 2 M€.",
    "Your steel resources are worth 1 M€ extra": "Jednostki stali są warte o 1 M€ więcej.",
    "Spend 4 M€ to draw a Building card (Turmoil Mars First)": "Wydaj 4 M€, aby dobrać kartę z symbolem Budowli.",
 
@@ -31,7 +31,7 @@
    "Select a Greens policy.": "Wybierz program polityczny partii Zieloni.",
    "When you place a greenery tile, gain 4 M€": "Kiedy umieszczasz obszar zieleni na powierzchni Marsa otrzymujesz 4 M€.",
    "When you place a tile, gain 1 plant": "Kiedy umieszczasz dowolny obszar na planszy, otrzymujesz 1 jednostkę roślinności.",
-   "When you play an animal, plant or microbe tag, gain 2 M€": "Kiedy zagrywasz kartę z symbolem Zwierząt, Roślin lub Mikrobów, otrzymujesz 2 M€.",
+   "When you play an animal, plant or microbe tag, gain 2 M€": "Kiedy zagrywasz symbol Zwierząt, Roślin lub Mikrobów, otrzymujesz 2 M€.",
    "Spend 5 M€ to gain 3 plants or add 2 microbes to ANY card (Turmoil Greens)": "Wydaj 5 M€, aby otrzymać 3 jednostki roślinności lub umieścić 2 jednostki mikrobów na dowolnej karcie.",
 
    "Select a Reds bonus.": "Wybierz bonus partii Czerwoni.",
@@ -52,17 +52,17 @@
    "Convert 6 heat into temperature (Turmoil Kelvinists)": "Wydaj 6 jednostek ciepła, aby podnieść temperaturę o 1 poziom.",
    "When you place a tile, gain 2 heat": "Kiedy umieszczasz dowolny obszar na planszy, otrzymujesz 2 jednostki ciepła.",
    
-    "Mars First - (All players receive 1 M€ for each building tag they have.)": "Teraz Mars - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Budowli.",
-    "Scientists - (All players receive 1 M€ for each science tag they have.)": "Naukowcy - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Nauki.",
-    "Unity - (All players receive 1 M€ for each Venus tag, Earth tag, and Jovian tag they have.)": "Jedność - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Wenus, Ziemi i Jowisza.",
-    "Kelvinists - (All players receive 1 M€ for each heat production they have.)": "Kelwiniści - Każdy gracz otrzymuje po 1 M€ za każdy posiadany poziom produkcji ciepła.",
-    "Reds - (The player with the lowest TR gains 1 TR. Ties are friendly.)": "Czerwoni - Gracz z najniższym WT podnosi swój WT o 1 poziom (remisy są współdzielone).",
-    "Greens - (All players receive 1 M€ for each Plant tag, Microbe tag, and Animal tag they have.)": "Zieloni - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Roślinności, Zwierząt i mikrobów.",
+   "Mars First - (All players receive 1 M€ for each building tag they have.)": "Teraz Mars - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Budowli.",
+   "Scientists - (All players receive 1 M€ for each science tag they have.)": "Naukowcy - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Nauki.",
+   "Unity - (All players receive 1 M€ for each Venus tag, Earth tag, and Jovian tag they have.)": "Jedność - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Wenus, Ziemi i Jowisza.",
+   "Kelvinists - (All players receive 1 M€ for each heat production they have.)": "Kelwiniści - Każdy gracz otrzymuje po 1 M€ za każdy posiadany poziom produkcji ciepła.",
+   "Reds - (The player with the lowest TR gains 1 TR. Ties are friendly.)": "Czerwoni - Gracz z najniższym WT podnosi swój WT o 1 poziom (remisy są współdzielone).",
+   "Greens - (All players receive 1 M€ for each Plant tag, Microbe tag, and Animal tag they have.)": "Zieloni - Każdy gracz otrzymuje po 1 M€ za każdy posiadany symbol Roślinności, Zwierząt i mikrobów.",
 
-    "Mars First (Focused on Martian development and independence.)":"Teraz Mars (Skupia się na rozwoju i niepodległości Marsa).",
-    "Scientists (Tech is the door to the future, and Scientists will do anything to open it.)": "Naukowcy (Technologia to wrota do przyszłości, a Naukowcy zrobią wszystko, aby je otworzyć).",
-    "Unity (Wants to see humanity prosper in the whole solar system.)": "Jedność (Pragnie, aby cywilizacja ludzka rozwijała się w całym Układzie Słonecznym).",
-    "Greens (Want to see a new Earth as soon as possible.)": "Zieloni (Pragną jak najszybciej zobaczyć Nową Ziemię).",
-    "Reds (Wishes to preserve the red planet.)": "Czerwoni (Chcą zachować Czerwoną Planetę w nienaruszonym stanie).",
-    "Kelvinists (Pushes for rapid terraforming, usually employing a heat-first strategy.)": "Kelwiniści (Są zwolennikami gwałtownej terraformacji, a w swoim programie kładą nacisk na ciepło)."
+   "Mars First (Focused on Martian development and independence.)":"Teraz Mars (Skupia się na rozwoju i niepodległości Marsa).",
+   "Scientists (Tech is the door to the future, and Scientists will do anything to open it.)": "Naukowcy (Technologia to wrota do przyszłości, a Naukowcy zrobią wszystko, aby je otworzyć).",
+   "Unity (Wants to see humanity prosper in the whole solar system.)": "Jedność (Pragnie, aby cywilizacja ludzka rozwijała się w całym Układzie Słonecznym).",
+   "Greens (Want to see a new Earth as soon as possible.)": "Zieloni (Pragną jak najszybciej zobaczyć Nową Ziemię).",
+   "Reds (Wishes to preserve the red planet.)": "Czerwoni (Chcą zachować Czerwoną Planetę w nienaruszonym stanie).",
+   "Kelvinists (Pushes for rapid terraforming, usually employing a heat-first strategy.)": "Kelwiniści (Są zwolennikami gwałtownej terraformacji, a w swoim programie kładą nacisk na ciepło)."
  }

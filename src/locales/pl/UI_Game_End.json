@@ -12,7 +12,7 @@
     "won!": "wygrywa!",
     "But it isn't the reason to stop making Mars better.": "Nie jest to jednak powód do zaprzestania dalszego doskonalenia Marsa.",
     "Try to win with expansions enabled": "Spróbuj wygrać korzystając z dodatków.",
-    "Try to win before the last generation comes": "Postaraj się wygrać przed nadejściem ostatniego pokolenia.",
+    "Try to win before the last generation": "Postaraj się wygrać przed nadejściem ostatniego pokolenia.",
     "Can you get": "Czy zdołasz zdobyć",
     "+ Victory Points?": "+ Punktów Zwycięstwa?",
 
@@ -21,6 +21,7 @@
     "generations": "pokoleniach:",
     "Player": "Gracz", 
     "Corporation": "Korporacja",
+    "corporation": "Korporacja",
     "TR": "WT",
     "VP": "PZ",
     "Total": "Razem",
