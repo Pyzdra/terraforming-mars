@@ -58,6 +58,7 @@
 
 	"Research Grant:Pathfinders": "Grant Badawczy",
 	"(Increase your energy production by 1. Gain 14 M€.)": "Podnieś swoją produkcję energii o 1 poziom. Otrzymujesz 14 M€.",
+	"(Increase your energy production 1 step. Gain 14 M€.)": "Podnieś swoją produkcję energii o 1 poziom. Otrzymujesz 14 M€.",
 
 	"Business Empire": "Imperium Biznesowe",
 	"(Increase your M€ production 6 steps. Pay 6 M€.)": "Podnieś swoją produkcję M€ o 6 poziomów. Wydaj 6 M€.",
@@ -69,7 +70,7 @@
 	"2x bonus": "2x Bonus",
 	"(Place a colony. Receive the placement bonus twice.)": "Umieść kolonię na obiekcie. Otrzymujesz podwójny bonus kolonialny.",
 
-	"Core Mine": "Kluczowa kopalnia",
+	"Core Mine": "Kluczowa Kopalnia",
 	"(Place a mine tile on The Moon and raise the mining rate 1 step. Increase your titanium production 1 step.)": "Podnieś swoją produkcję tytanu o 1 poziom. Umieść obszar kopalni na Księżycu i podnieś WG Księżyca o 1 poziom.",
 
 	"Mining Complex": "Kompleks Wydobywczy",
@@ -108,7 +109,7 @@
 	"Metal-Rich Asteroid": "Planetoida Klasy M",
 	"(Increase temperature 1 step. Gain 4 titanium and 4 steel.)": "Podnieś temperaturę o 1 poziom. Otrzymujesz po 4 jednostki tytanu i stali.",
 
-	"Basic Infrastructure": "Podstawowa infrastruktura",
+	"Basic Infrastructure": "Podstawowa Infrastruktura",
 	"(Place a road tile on The Moon and raise the Logistics Rate 1 step. Gain 1 trade fleet.)": "Umieść obszar infrastruktury Księżycu i podnieś WI Księżyca o 1 poziom. Otrzymujesz 1 flotę handlową.",
 
 	"UNMI Contractor": "Podwykonawca UNMI",
@@ -195,7 +196,7 @@
 	"Acquired Space Agency": "Zakup Agencji Kosmicznej",
 	"(Gain 6 titanium. Reveal cards until you reveal two cards with Space Tags. Take them into your hand, discard the rest.)": "Otrzymujesz 6 jednostek tytanu. Dobierz 2 karty z symbolem Przestrzeni Kosmicznej.",
 
-	"Trade Advance": "Zaliczka handlowa",
+	"Trade Advance": "Zaliczka Handlowa",
 	"Trade all colonies with": "Handluj ze wszystkimi obiektami z",
 	"(Gain 2 M€ [SOLO: Gain 10 M€]. Immediately trade with all active colonies. You may increase the Colony Tile track 1 step before each of these trades.)": "Otrzymujesz 2 M€ [Solo: Otrzymujesz 10 M€]. Wykonaj akcję handlu ze wszystkimi obiektami. Możesz za każdym razem najpierw przesunąć biały znacznik obiektu o 1 pole w prawo na torze kolonii."
 }

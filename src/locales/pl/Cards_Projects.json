@@ -681,7 +681,7 @@
 
 	"Nuclear Zone": "Strefa Nuklearna",
 	"(Raise the temperature two steps. Place this tile. Players must pay an additional 2M€ when they place a tile with their player marker on it ADJACENT to the Nuclear Zone.)": "Podnieś temperaturę o 2 poziomy. Umieść ten obszar specjalny na planszy. Gracze, umieszczający swoje obszary ze znacznikiem gracza w sąsiedztwie tego obszaru, muszą wydać 2 M€.",
-	"(Place this tile and raise temperature 2 steps).": "Umieść ten obszar specjalny na planszy. Podnieś temperaturę o 2 poziomy.",
+	"(Place this tile and raise temperature 2 steps.)": "Umieść ten obszar specjalny na planszy. Podnieś temperaturę o 2 poziomy.",
 
 	"Restricted Area": "Obszar Zastrzeżony",
 	"(Action: Spend 2 M€ to draw a card.)": "Akcja: Wydaj 2 M€, aby dobrać 1 kartę.",
@@ -1002,7 +1002,7 @@
 	"(Requires that you have 3 Moon tags. Increase your M€ production 1 step per Moon tag in the game (including these.))": "Musisz posiadać co najmniej 3 symbole Księżyca. Podnieś swoją produkcję M€ o 1 poziom za każdy symbol Księżyca w grze (z tymi włącznie).",
 	
 	"Luna Staging Station": "Księżycowa Stacja Postojowa",
-	"(Requires the logistic rate to be 2 or higher. Spend 1 titanium. Raise the logistic rate 2 steps).": "WI Księżyca musi być co najmniej na 2 poziomie. Wydaj 1 jednostkę tytanu. Podnieś WI Księżyca o 2 poziomy.",
+	"(Requires the logistic rate to be 2 or higher. Spend 1 titanium. Raise the logistic rate 2 steps.)": "WI Księżyca musi być co najmniej na 2 poziomie. Wydaj 1 jednostkę tytanu. Podnieś WI Księżyca o 2 poziomy.",
 	
 	"Luna Trade Station": "Księżycowa Stacja Handlowa",
 	"(Action: Gain 2 M€ for each habitat tile on The Moon.)": "Akcja: Otrzymujesz 2 M€ za każdy obszar habitatu na Księżycu.",
@@ -1082,7 +1082,7 @@
 	"Select card to add 2 Data(s)": "Wybierz kartę, na której chcesz umieścić 2 jednostki danych:",
 	
 	"Revolting Colonists": "Zbuntowani Koloniści",
-	"(Requires 4 habitat rate. All players pay 3M€ for each habitat tile they own).": "WK Księżyca musi być co najmniej na 4 poziomie. Każdy gracz traci po 3 M€ za każdy posiadany obszar habitatu.",
+	"(Requires 4 habitat rate. All players pay 3M€ for each habitat tile they own.)": "WK Księżyca musi być co najmniej na 4 poziomie. Każdy gracz traci po 3 M€ za każdy posiadany obszar habitatu.",
 	
 	"Rover Drivers Union": "Związek Kierowców Łazików",
 	"(Requires 2 logistic rate. Raise the logistic rate 1 step. Increase your M€ production 1 step per logistic rate.)": "WI Księżyca musi być co najmniej na 2 poziomie. Podnieś WI Księżyca o 1 poziom. Podnieś swoją produkcję M€ o 1 poziom za każdy osiągniety poziom WI Księżyca.",
@@ -1129,7 +1129,7 @@
 	
 	"Titanium Market Monopolists": "Monopoliści Rynku Tytanu",
 	"(Action: Spend 2X M€ to gain X titanium [max 8 M€])": "Akcja: Wydaj 2X M€ aby otrzymać X jednostek tytanu [max. 8 M€]",
-	"(Action: Spend X titanium to gain 4X M€ [max 4 titanium]).": "Akcja: Wydaj X jednostek tytanu aby otrzymać 4X M€ [max. 4 tytanu].",
+	"(Action: Spend X titanium to gain 4X M€ [max 4 titanium].)": "Akcja: Wydaj X jednostek tytanu aby otrzymać 4X M€ [max. 4 tytanu].",
 	
 	"Tycho Road Network": "Sieć Dróg Tycho",
 	"(Spend 1 steel. Increase your M€ production 1 step. Place a road tile on The Moon and raise the Logistics Rate 1 step.)": "Wydaj 1 jednostkę stali. Podnieś swoją produkcję M€ o 1 poziom. Umieść obszar infrastruktury na Księżycu i podnieś WI Księżyca o 1 poziom. Wydaj 1 PZ.",
@@ -1737,6 +1737,7 @@
 	
 	"Event Analysts": "Analitycy Wydarzeń",
 	"(Effect: You have +1 influence.)": "Efekt trwały: Masz 1 dodatkowy punkt wpływów.",
+	"(Requires that Scientists are ruling or that you have 2 delegates there.)": "Naukowcy muszą być partią rządzącą lub musisz mieć co najmniej 2 delegatów w tej partii.",
 	
 	"GMO Contract": "Kontrakt na GMO",
 	"(Effect: Each time you play a plant, animal or microbe tag, including this, gain 2 M€.)": "Efekt trwały: Gdy zagrywasz symbol Roślinności, Mikrobów lub Zwierząt (z tym włącznie), otrzymujesz 2 M€ za każdy z nich.",
@@ -1776,5 +1777,4 @@
 	"Political Alliance": "Polityczne Przymierze",
 	"(Requires that you have 2 party leaders. Gain 1 TR.)": "Twoi delegaci muszą być liderami co najmniej 2 partii. Podnieś swój WT o 1 poziom."
 }
-
 
