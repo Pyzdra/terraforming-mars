@@ -1,14 +1,15 @@
 {
-	"Paradigm Breakdown": "Zmiana paradygmatu",
+	"Paradigm Breakdown": "Zmiana Paradygmatu",
     "(Discard 2 cards from hand. Gain 2 M€ per influence.)": "Każdy gracz odrzuca po 2 karty z ręki. Każdy gracz otrzymuje po 2 M€ za każdy posiadany punkt wpływów.",
 	
 	"Venus Infrastructure": "Infrastruktura na Wenus",
     "(Gain 2 M€ per Venus tag (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany symbol Wenus (max 5) i punkt wpływów.",
+	"Venus Infrastructure: Gain 2 M€ per Venus tag (max 5) and influence. Neutral delegate added: Unity": "Infrastruktura na Wenus: Każdy gracz otrzymuje po 2 M€ za każdy posiadany symbol Wenus (max 5) i punkt wpływów. Neutralny delegat jest umieszczany w partii Jedność.",
 	
-    "Successful Organisms": "Udane organizmy",
+    "Successful Organisms": "Udane Organizmy",
     "(Gain 1 plant per plant production (max 5) and influence.)": "Każdy gracz otrzymuje po 1 jednostce roślinności za każdy posiadany poziom produkcji roślinności (max 5) i punkt wpływów.",
 	
-	"Scientific Community": "Społeczność naukowa",
+	"Scientific Community": "Społeczność Naukowa",
     "(Gain 1 M€ for each card in hand (no limit) and influence.)": "Każdy gracz otrzymuje po 1 M€ za każdą kartę na ręce (bez limitu) i posiadane punkty wpływów.",
 	
 	"Aquifer Released by Public Council": "Uwolniona przez Konsula Warstwa Wodonośna",
@@ -19,6 +20,7 @@
 	
 	"Celebrity Leaders": "Liderzy Celebryci",
     "(Gain 2 M€ for each event played (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każde zagrane przez siebie wydarzenie (max 5) i punkt wpływów.",
+	"Celebrity Leaders: Gain 2 M€ for each event played (max 5) and influence. Neutral delegate added: Greens": "Liderzy Celebryci: Każdy gracz otrzymuje po 2 M€ za każde zagrane przez siebie wydarzenie (max 5) i punkt wpływów. Neutralny delegat jest umieszczany w partii Zieloni.",
 	
 	"Cloud Societies": "Społeczeństwo w Chmurze",
     "(Add a floater to each card that can collect floaters. Add 1 floater for each influence to a card.)": "Każdy gracz umieszcza po 1 jednostce dryfowców na każdej karcie, która zbiera dryfowce. Dodatkowo na wybranej karcie każdy gracz umieszcza po 1 jednostce dryfowców za każdy posiadany punkt wpływów.",
@@ -41,6 +43,7 @@
 	"1st:": "1.",
     "2nd:": "2.",
     "(Count your influence plus building tags and city tiles (no limits). The player with most (or 10 in solo) gains 2 TR, the 2nd (or 5 in solo) gains 1 TR (ties are friendly).)": "Każdy gracz dodaje do siebie posiadane punkty wpływów, symbole budowli i obszary miast (bez limitu). Gracz z największą sumą (albo 10 w grze solo) podnosi swój WT o 2 poziomy, a gracz z drugiego miejsca (albo 5 w grze solo) podnosi swój WT o 1 poziom (remisy są współdzielone).",
+	"Election: Count your influence plus building tags and city tiles (no limits). The player with most (or 10 in solo) gains 2 TR, the 2nd (or 5 in solo) gains 1 TR (ties are friendly). Neutral delegate added: Mars First": "Wybory: Każdy gracz dodaje do siebie posiadane punkty wpływów, symbole budowli i obszary miast (bez limitu). Gracz z największą sumą (albo 10 w grze solo) podnosi swój WT o 2 poziomy, a gracz z drugiego miejsca (albo 5 w grze solo) podnosi swój WT o 1 poziom (remisy są współdzielone). Neutralny delegat jest umieszczany w partii Teraz Mars.",
 	
 	"Generous Funding": "Hojny Sponsoring",
 	"over 15": "powyżej 15",
@@ -53,20 +56,21 @@
 	"Homeworld Support": "Wsparcie z Planety Macierzystej",
     "(Gain 2 M€ for each Earth tag (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany symbol Ziemi (max 5) i punkt wpływów.",
 	
-	"Improved Energy Templates": "Ulepszone linie energetyczne",
+	"Improved Energy Templates": "Ulepszone Linie Energetyczne",
     "(Increase energy production 1 step per 2 power tags (no limit). Influence counts as power tags.)": "Każdy gracz podnosi swoją produkcję energii o 1 poziom za każde posiadane 2 symbole Energii (bez limitu). Punkty wpływów uważane są za symbole Energii.",
 	
-	"Interplanetary Trade": "Handel międzyplanetarny",
+	"Interplanetary Trade": "Handel Międzyplanetarny",
     "(Gain 2 M€ for each space tag (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany symboli Przestrzeni Kosmicznej (max 5) i punkt wpływów.",
 	
 	"Jovian Tax Rights": "Podatki Jowiańskie",
     "(Increase M€ production 1 step for each colony. Gain 1 titanium for each influence.)": "Każdy gracz podnosi swoją produkcję M€ o 1 poziom za każdą posiadaną kolonię. Każdy gracz otrzymuje po 1 jednostce tytanu za każdy posiadany punkt wpływów.",
 	
-	"Miners On Strike": "Strajki górnicze",
+	"Miners On Strike": "Strajki Górnicze",
     "(Lose 1 titanium for each Jovian tag (max 5, then reduced by influence).)": "Każdy gracz traci po 1 jednostce tytanu za każdy posiadany symbol Jowisza (max 5, obniżone o posiadane punkty wpływów).",
 	
-	"Mud Slides": "Lawiny błotne",
+	"Mud Slides": "Lawiny Błotne",
     "(Lose 4 M€ for each tile adjacent to ocean (max 5, then reduced by influence).)": "Każdy gracz traci po 4 M€ za każdy swój obszar sąsiadujący z obszarem oceanu (max 5, obniżone o posiadane punkty wpływów).",
+	"Mud Slides: Lose 4 M€ for each tile adjacent to ocean (max 5, then reduced by influence). Neutral delegate added: Greens": "Lawiny Błotne: Każdy gracz traci po 4 M€ za każdy swój obszar sąsiadujący z obszarem oceanu (max 5, obniżone o posiadane punkty wpływów. Neutralny delegat jest umieszczany w partii Zieloni.",
 	
 	"Pandemic": "Pandemia",
     "(Lose 3 M€ for each building tag (max 5, then reduced by influence).)": "Każdy gracz traci po 3 M€ za każdy posiadany symbol Budowli (max 5, obniżone o posiadane punkty wpływów).",
@@ -102,10 +106,10 @@
 	"Spin-Off Products": "Produkty Uboczne", 
     "(Gain 2 M€ for each science tag (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany symbol Nauki (max 5) i punkt wpływów.",
 	
-	"Sponsored Projects": "Sponsorowany projekt",
+	"Sponsored Projects": "Sponsorowany Projekt",
     "(All cards with resources on them gain 1 resource. Draw 1 card for each influence.)": "Na każdej karcie ze zgromadzonymi zasobami należy umieścić po 1 jednostce zasobu. Każdy gracz dobiera po 1 karcie za każdy posiadany punkt wpływów.",
 	
-	"Strong Society": "Silne społeczeństwo",
+	"Strong Society": "Silne Społeczeństwo",
     "(Gain 2 M€ for each city tile (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każdy posiadany obszar miasta (max 5) i punkt wpływów.",
 	
 	"Volcanic Eruptions": "Erupcje Wulkaniczne", 
@@ -117,7 +121,7 @@
 	"Leadership Summit": "Szczyt Liderów",
     "(Draw 1 card for each party leader (max 5) and influence.)": "Każdy gracz dobiera 1 kartę za każdego lidera partii (max. 5) i za każdy posiadany punkt wpływu.",
 	
-	"Balanced Development": "Zbalansowany rozwój",
+	"Balanced Development": "Zbalansowany Rozwój",
     "(Gain 2M€ for each Mars tag you have (max 5) and influence.)": "Każdy gracz otrzymuje po 2 M€ za każdy symbol Marsa (max. 5) i za każdy posiadany punkt wpływu.",
 	
 	"Space Race to Mars": "Wyścig na Marsa",
@@ -132,6 +136,6 @@
 	"Magnetic Field Stimulation Delays": "Opóźnienia we Wzbudzaniu Pola Magnetycznego",
     "(Lower the temperature and oxygen 2 steps each. (-4C, -2% O2))": "Obniż poziomy temperatury i tlenu o dwa poziomy każdy.",
 	
-	"Communication Boom": "Boom komunikacyjny",
+	"Communication Boom": "Boom Komunikacyjny",
     "(Pay 10M€. Add 2 data to EVERY data card. Add 1 data to any data card for each influence you have.)": "Każdy gracz płaci 10 M€. Może położyć 2 jednostki danych na każdą kartę z danymi. Może położyć 1 jednostkę danych na dowolnej karcie z symbolem danych za każdy posiadany punkt wpływu."
 }
