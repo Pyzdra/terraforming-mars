@@ -58,7 +58,7 @@ export class ExtremeColdFungus extends Card implements IActionCard, IProjectCard
       const targetCard = otherMicrobeCards[0];
 
       return new OrOptions(
-        new SelectOption('Add 2 microbes to ' + targetCard.name, 'Add microbes', () => {
+        new SelectOption(`Add 2 microbes to ${targetCard.name}`, 'Add microbes', () => {
           player.addResourceTo(targetCard, {qty: 2, log: true});
           return undefined;
         }),
