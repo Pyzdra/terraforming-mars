@@ -149,17 +149,17 @@ export class Game implements Logger {
     preludeDeck: PreludeDeck) {
     const playerIds = players.map((p) => p.id);
     if (playerIds.includes(first.id) === false) {
-      throw new Error('Cannot find first player ' + first.id + ' in ' + playerIds);
+      throw new Error(`Cannot find first player ${first.id} in ${playerIds}`);
     }
     if (playerIds.includes(activePlayer) === false) {
-      throw new Error('Cannot find active player ' + activePlayer + ' in ' + playerIds);
+      throw new Error(`Cannot find active player ${activePlayer} in ${playerIds}`);
     }
     if (new Set(playerIds).size !== players.length) {
-      throw new Error('Duplicate player found: ' + playerIds);
+      throw new Error(`Duplicate player found: ${playerIds}`);
     }
     const colors = players.map((p) => p.color);
     if (new Set(colors).size !== players.length) {
-      throw new Error('Duplicate color found: ' + colors);
+      throw new Error(`Duplicate color found: ${colors}`);
     }
 
     this.activePlayer = activePlayer;
@@ -183,7 +183,7 @@ export class Game implements Logger {
     seed = 0,
     spectatorId: SpectatorId | undefined = undefined): Game {
     if (gameOptions.clonedGamedId !== undefined) {
-      throw new Error('Cloning should not come through this execution path.');
+      throw new Error(`Cloning should not come through this execution path.`);
     }
 
     const rng = new SeededRandom(seed);
@@ -1246,7 +1246,7 @@ export class Game implements Logger {
 
     // Land claim a player can claim land for themselves
     if (space.player !== undefined && space.player !== player) {
-      throw new Error('This space is land claimed by ' + space.player.name);
+      throw new Error(`This space is land claimed by ${space.player.name}`);
     }
 
     if (!AresHandler.canCover(space, tile)) {

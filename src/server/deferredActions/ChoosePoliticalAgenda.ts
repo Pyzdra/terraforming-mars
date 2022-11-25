@@ -28,7 +28,7 @@ export class ChoosePoliticalAgenda extends DeferredAction {
     });
 
     const orBonuses = new OrOptions(...bonuses);
-    orBonuses.title = 'Select a ' + this.party.name + ' bonus.';
+    orBonuses.title = `Select a ${this.party.name} bonus.`;
 
     const policies = this.party.policies.map((policy) => {
       const description = typeof(policy.description) === 'string' ? policy.description : policy.description(this.player);
@@ -38,7 +38,7 @@ export class ChoosePoliticalAgenda extends DeferredAction {
       });
     });
     const orPolicies = new OrOptions(...policies);
-    orPolicies.title = 'Select a ' + this.party.name + ' policy.';
+    orPolicies.title = `Select a ${this.party.name} policy.`;
 
     return new OrOptions(orBonuses, orPolicies);
   }

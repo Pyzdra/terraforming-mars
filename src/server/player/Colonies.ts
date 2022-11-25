@@ -160,7 +160,7 @@ export class TradeWithEnergy implements IColonyTrader {
     return this.player.energy >= this.tradeCost;
   }
   public optionText() {
-    return 'Pay ' + this.tradeCost +' Energy';
+    return `Pay ${this.tradeCost} Energy`;
   }
 
   public trade(colony: IColony) {
@@ -181,7 +181,7 @@ export class TradeWithTitanium implements IColonyTrader {
     return this.player.titanium >= this.tradeCost;
   }
   public optionText() {
-    return 'Pay ' + this.tradeCost +' Titanium';
+    return `Pay ${this.tradeCost} Titanium`;
   }
 
   public trade(colony: IColony) {
@@ -208,7 +208,7 @@ export class TradeWithMegacredits implements IColonyTrader {
     return this.player.canAfford(this.tradeCost);
   }
   public optionText() {
-    return 'Pay ' + this.tradeCost +' M€';
+    return `Pay ${this.tradeCost} M€`;
   }
 
   public trade(colony: IColony) {

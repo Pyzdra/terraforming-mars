@@ -47,7 +47,7 @@ export class StealResources extends DeferredAction {
       }
 
       return new SelectOption(
-        'Steal ' + qtyToSteal + ' ' + this.resource + ' from ' + candidate.name,
+        `Steal ${qtyToSteal} ${this.resource} from ${candidate.name}`,
         'Steal',
         () => {
           candidate.deductResource(this.resource, qtyToSteal, {log: true, from: this.player, stealing: true});

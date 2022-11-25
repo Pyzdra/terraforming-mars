@@ -15,7 +15,7 @@ export class DecreaseAnyProduction extends DeferredAction {
       count: 1,
       stealing: false,
     },
-    public title: string = 'Select player to decrease ' + resource + ' production by ' + options.count + ' step(s)',
+    public title: string = `Select player to decrease ${resource} production by ${options.count} step(s)`,
   ) {
     super(player, Priority.ATTACK_OPPONENT);
   }
