@@ -18,7 +18,7 @@ export class RemoveResourcesFromCard extends DeferredAction {
     public count: number = 1,
     public ownCardsOnly: boolean = false,
     public mandatory: boolean = true, // Resource must be removed (either it's a cost or the icon is not red-bordered)
-    public title: string = 'Select card to remove ' + count + ' ' + resourceType + '(s)',
+    public title: string = `Select card to remove ${count} ${resourceType}(s)`,
   ) {
     super(player, Priority.ATTACK_OPPONENT);
     if (ownCardsOnly) {

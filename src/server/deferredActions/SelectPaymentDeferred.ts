@@ -58,7 +58,7 @@ export class SelectPaymentDeferred extends DeferredAction {
     }
 
     return new SelectPayment(
-      this.options.title || 'Select how to spend ' + this.amount + ' M€',
+      this.options.title || `Select how to spend ${this.amount} M€`,
       this.options.canUseSteel || false,
       this.options.canUseTitanium || false,
       this.player.canUseHeatAsMegaCredits,

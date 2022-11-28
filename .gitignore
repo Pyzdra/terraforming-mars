@@ -20,3 +20,4 @@ assets/locales
 
 # Local Packages
 node_modules/
+*.bak

@@ -9,7 +9,7 @@ export class RemoveAnyPlants extends DeferredAction {
   constructor(
     player: Player,
     public count: number = 1,
-    public title: string = 'Select player to remove up to ' + count + ' plants',
+    public title: string = `Select player to remove up to ${count} plants`,
   ) {
     super(player, Priority.ATTACK_OPPONENT);
   }
@@ -36,7 +36,7 @@ export class RemoveAnyPlants extends DeferredAction {
         qtyToRemove = Math.ceil(qtyToRemove / 2);
       }
 
-      return new SelectOption('Remove ' + qtyToRemove + ' plants from ' + candidate.name, 'Remove plants', () => {
+      return new SelectOption(`Remove ${qtyToRemove} plants from ${candidate.name}`, 'Remove plants', () => {
         candidate.deductResource(Resources.PLANTS, qtyToRemove, {log: true, from: this.player});
         return undefined;
       });

@@ -10,7 +10,7 @@ export class StealResources extends DeferredAction {
     player: Player,
     public resource: Resources,
     public count: number = 1,
-    public title: string = 'Select player to steal up to ' + count + ' ' + resource + ' from',
+    public title: string = `Select player to steal up to ${count} ${resource} from`,
   ) {
     super(player, Priority.ATTACK_OPPONENT);
   }

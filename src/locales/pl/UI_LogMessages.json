@@ -152,6 +152,8 @@
     "${0} turned ${1} face down to gain 3 TR": "${0} zakrywa ${1} i podnosi swój WT o 3 poziomy.",
     "Not enough corporations while resolving ${0}": "Brak dostatecznej liczby korporacji w talii do przeprowadzenia akcji karty ${0}",
     "You discarded ${0}": "Odrzucasz ${0}.",
+    "You drew": "Dobierasz",
+    "You drew ": "Dobierasz ",
     "You drew ${0}": "Dobierasz ${0}.",
     "You drew ${0} and ${1}": "Dobierasz ${0} i ${1}.",
     "You drew ${0}, ${1} and ${2}": "Dobierasz ${0}, ${1} i ${2}.",

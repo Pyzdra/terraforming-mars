@@ -45,6 +45,6 @@ export class DecreaseAnyProduction extends DeferredAction {
         found.production.add(this.resource, -this.options.count, {log: true, from: this.player, stealing: this.options.stealing});
         return undefined;
       },
-    );
+    ); 
   }
 }

@@ -11,7 +11,7 @@ export class IncreaseColonyTrack extends DeferredAction {
     public colony: IColony,
     public steps: number,
     public cb: () => void,
-    public title: string = 'Increase ' + colony.name + ' colony track before trade',
+    public title: string = `Increase ${colony.name} colony track before trade`,
   ) {
     super(player, Priority.INCREASE_COLONY_TRACK);
   }
@@ -25,7 +25,7 @@ export class IncreaseColonyTrack extends DeferredAction {
     const options = new OrOptions();
     for (let step = this.steps; step > 0; step--) {
       options.options.push(
-        new SelectOption('Increase colony track ' + step + ' step(s)', 'Confirm', () => {
+        new SelectOption(`Increase colony track ${step} step(s)`, 'Confirm', () => {
           this.colony.increaseTrack(step);
           LogHelper.logColonyTrackIncrease(this.player, this.colony, step);
           this.cb();
