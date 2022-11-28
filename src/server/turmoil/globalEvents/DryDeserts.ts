@@ -33,7 +33,7 @@ export class DryDeserts extends GlobalEvent implements IGlobalEvent {
         game.defer(new SelectResourcesDeferred(
           player,
           count,
-          'Dry Deserts Global Event - Gain ' + count + ' resource(s) for influence',
+          `Dry Deserts Global Event - Gain ${count} resource(s) for influence`,
         ));
       }
     });
