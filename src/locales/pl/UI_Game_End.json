@@ -33,6 +33,12 @@
     "1st place for": "1. Miejsce dla nagrody",
     "2nd place for": "2. Miejsce dla nagrody",
     "award (funded by": "(ufundowanej przez gracza:",
+    "1st place for ${fundedAward.award.name} award (funded by ${fundedAward.player.name})": "1. Miejsce dla nagrody ${fundedAward.award.name} (fundator: ${fundedAward.player.name})",
+    "2nd place for ${fundedAward.award.name} award (funded by ${fundedAward.player.name})": "2. Miejsce dla nagrody ${fundedAward.award.name} (fundator: ${fundedAward.player.name})",
+    "Most tags on the ${v.tag} track": "Największy wkład w rozwój społeczeństwa ${v.tag}.",
+    "Most tags on the {{v.tag}} track": "Największy wkład w rozwój społeczeństwa {{v.tag}}..",
+    "Turmoil Points": "Punkty za politykę",
+    "Colony VP": "PZ za kolonie",
 
     "M": "T",
     "A": "N",

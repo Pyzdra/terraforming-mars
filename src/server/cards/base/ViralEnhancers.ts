@@ -48,7 +48,7 @@ export class ViralEnhancers extends Card implements IProjectCard {
       player.game.defer(new SimpleDeferredAction(
         player,
         () => new OrOptions(
-          new SelectOption('Add resource to card ' + card.name, 'Add resource', () => {
+          new SelectOption(`Add resource to card ${card.name}`, 'Add resource', () => {
             player.addResourceTo(card);
             return undefined;
           }),

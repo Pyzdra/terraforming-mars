@@ -1327,7 +1327,7 @@ export class Player {
   }
 
   private claimMilestone(milestone: IMilestone): SelectOption {
-    return new SelectOption(milestone.name, 'Claim - ' + '('+ milestone.name + ')', () => {
+    return new SelectOption(milestone.name, `Claim - ${milestone.name}`, () => {
       this.game.claimedMilestones.push({
         player: this,
         milestone: milestone,
@@ -1358,19 +1358,19 @@ export class Player {
 
       // We have one rank 1 player
       if (fundedAward.award.getScore(players[0]) > fundedAward.award.getScore(players[1])) {
-        if (players[0].id === this.id) vpb.setVictoryPoints('awards', 5, '1st place for '+fundedAward.award.name+' award (funded by '+fundedAward.player.name+')');
+        if (players[0].id === this.id) vpb.setVictoryPoints('awards', 5, `1st place for ${fundedAward.award.name} award (funded by ${fundedAward.player.name})`);
         players.shift();
 
         if (players.length > 1) {
           // We have one rank 2 player
           if (fundedAward.award.getScore(players[0]) > fundedAward.award.getScore(players[1])) {
-            if (players[0].id === this.id) vpb.setVictoryPoints('awards', 2, '2nd place for '+fundedAward.award.name+' award (funded by '+fundedAward.player.name+')');
+            if (players[0].id === this.id) vpb.setVictoryPoints('awards', 2, `2nd place for ${fundedAward.award.name} award (funded by ${fundedAward.player.name})`);
 
           // We have at least two rank 2 players
           } else {
             const score = fundedAward.award.getScore(players[0]);
             while (players.length > 0 && fundedAward.award.getScore(players[0]) === score) {
-              if (players[0].id === this.id) vpb.setVictoryPoints('awards', 2, '2nd place for '+fundedAward.award.name+' award (funded by '+fundedAward.player.name+')');
+              if (players[0].id === this.id) vpb.setVictoryPoints('awards', 2, `2nd place for ${fundedAward.award.name} award (funded by ${fundedAward.player.name})`);
               players.shift();
             }
           }
@@ -1380,7 +1380,7 @@ export class Player {
       } else {
         const score = fundedAward.award.getScore(players[0]);
         while (players.length > 0 && fundedAward.award.getScore(players[0]) === score) {
-          if (players[0].id === this.id) vpb.setVictoryPoints('awards', 5, '1st place for '+fundedAward.award.name+' award (funded by '+fundedAward.player.name+')');
+          if (players[0].id === this.id) vpb.setVictoryPoints('awards', 5, `1st place for ${fundedAward.award.name} award (funded by ${fundedAward.player.name})`);
           players.shift();
         }
       }
