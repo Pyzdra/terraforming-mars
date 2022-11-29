@@ -76,7 +76,7 @@
     "${0} drew no cards": "${0} nie dobiera żadnych kart.",
     "${0} drew ${1} and ${2}": "${0} dobiera ${1} i ${2}.",
     "${0} drew ${1}, ${2} and ${3}": "${0} dobiera ${1}, ${2} i ${3}.",
-	"${0} drew ${1}, ${2}, ${3}, and ${4}": "${0} dobiera ${1}, ${2}, ${3} i ${4}.",
+	"${0} drew ${1}, ${2}, ${3} and ${4}": "${0} dobiera ${1}, ${2}, ${3} i ${4}.",
 	"${0} drew ${1}, ${2}, ${3}, ${4} and ${5}": "${0} dobiera ${1}, ${2}, ${3}, ${4} i ${5}.",
     "You drew ${1}": "Dobierasz ${1}",
     "You drew ${1} and ${2}": "Dobierasz ${1} i ${2}",  
