@@ -878,6 +878,7 @@
 	"Select space on Mars for city tile": "Wybierz pole na powierzchni Marsa, na którym chcesz umieścić obszar miasta:",
 	"Select a space on The Moon for a habitat tile.": "Wybierz pole na powierzchni Księżyca, na którym chcesz umieścić obszar habitatu:",
 	"Select space for ocean": "Wybierz pole, na którym chcesz umieścić ocean:",
+	"Select card to add ${count} ${resource}(s)": "Wybierz kartę, na której chcesz umieścić zasób ${resource} (${count} jedn.):",
 	"Select card to add 1 animal": "Wybierz kartę, na której chcesz umieścić 1 jednostkę zwierząt:",
 	"Select card to add 1 floater": "Wybierz kartę, na której chcesz umieścić dryfowiec:",
 	"Select card to add 2 floaters": "Wybierz kartę, na której chcesz umieścić 2 dryfowce:",
