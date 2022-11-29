@@ -76,7 +76,8 @@
     "${0} drew no cards": "${0} nie dobiera żadnych kart.",
     "${0} drew ${1} and ${2}": "${0} dobiera ${1} i ${2}.",
     "${0} drew ${1}, ${2} and ${3}": "${0} dobiera ${1}, ${2} i ${3}.",
-    "${0} drew ${1}, ${2}, ${3} and ${4}": "${0} dobiera ${1}, ${2}, ${3} i ${4}.",
+	"${0} drew ${1}, ${2}, ${3}, and ${4}": "${0} dobiera ${1}, ${2}, ${3} i ${4}.",
+	"${0} drew ${1}, ${2}, ${3}, ${4} and ${5}": "${0} dobiera ${1}, ${2}, ${3}, ${4} i ${5}.",
     "You drew ${1}": "Dobierasz ${1}",
     "You drew ${1} and ${2}": "Dobierasz ${1} i ${2}",  
     "You drew ${1}, ${2} and ${3}": "Dobierasz ${1}, ${2} i ${3}",  
@@ -174,12 +175,10 @@
     "${0} lowered the habitat rate ${1} step(s)": "${0} obniża WK Księżyca o ${1} poziom/y",
     "${0} lowered the logistic rate ${1} step(s)": "${0} obniża WI Księżyca o ${1} poziom/y",
     "${0} sold ${1} steel": "${0} sprzedaje ${1} jednostek stali",
-
     "${0} gained ${1} TR": "${0} podnosi swój poziom WT o ${1}.",
     "${0} lost ${1} TR": "${0} traci ${1} WT",
     "${0} removed ${1} resource(s) from ${2}'s ${3}": "${0} usuwa ${1} jednostek z karty ${3} gracza ${2}",
 	"${0} placed ${1} tile on (${2}, ${3})": "${0} umieszcza obszar ${1} w rzędzie ${2}, na polu ${3}",
-
     "${0} turned the clone tag on ${1} into a ${2} tag": "${0} przekształca uniwersalny symbol na ${1} w symbol ${2}.",
     "${0} raised the ${1} planetary track ${2} ${3}": "${0} podnosi rozwój społeczeństwa ${1} o ${2} poziom.",
     "Global Event ${0} raised the ${1} planetary track ${2} ${3}": "Wydarzenie globalne ${0} podniosło rozwój społeczeństwa ${1} o ${2}.",
