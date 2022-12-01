@@ -1293,7 +1293,7 @@
 	"Expecting ${0} resources distributed, got ${1}.": "Oczekiwana liczba zasobów do rozdzielenia to: ${0}. Aktualna liczba zasobów: ${1}.",
 	"Selected space is occupied": "Wybrane pole jest już zajęte.",
 	"This space is land claimed by ${0}": "Pole jest zarezerwowane przez gracza ${0}",
-	"Not waiting for anything": "Na nic nie czekam.",
+	"Not waiting for anything": "Coś się ztentegowało - odśwież sobie stronę.",
 	"Warning: You are overpaying by ": "Uwaga, nadpłacasz ",
 	"Please adjust payment amount": "Dostosuj ilość zasobów, które chcesz wydać.",
 	"You cannot pay for this card": "Nie jesteś w stanie zapłacić za tą kartę",
